@@ -11,11 +11,11 @@ Skills: Python / TensorFlow / PyTorch / Keras / PyTorch Lightning / OpenCV / fas
 - 👯 I’m looking to collaborate on AI Projects 
 - 🤔 I’m looking for help with MLOps 
 - 💬 Ask me about Computer Vision and NLP 
-- 📫 How to reach me: firqaaa@gmail.com 
+- 📫 How to reach me: -
 - 😄 Pronouns: He/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/firqaaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/firqaana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/firqaaa)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/firqaaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/firqaana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/firqaaa)   -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firqaaa)](https://github.com/anuraghazra/github-readme-stats)
 
