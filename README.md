@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Firqa
 #### I am Data Scientist • ML Engineer • AI Engineer
-![I am Data Scientist • ML Engineer • AI Engineer]
+<!-- ![I am Data Scientist • ML Engineer • AI Engineer] -->
 
 I am a Final Year student at Sepuluh Nopember Institute of Technology majoring in Information System. I’m proficient in such Machine Learning and Deep Learning areas as Computer Vision, Natural Language Processing, and Predictive Analytics. Experienced in using libraries/frameworks in Python such as Scikit-Learn, Keras, TensorFlow, PyTorch, fastai, JAX, and PyTorch Lighting for ML projects.
 
@@ -21,10 +21,10 @@ Skills: Python / TensorFlow / PyTorch / Keras / PyTorch Lightning / OpenCV / fas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=firqaaa&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firqaaa)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=firqaaa)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/firqaaa)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=firqaaa)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=firqaaa)   -->
 
 ![Profile views](https://gpvc.arturio.dev/firqaaa)  
