@@ -10,7 +10,7 @@ Skills: Python / TensorFlow / PyTorch / Keras / PyTorch Lightning / OpenCV / fas
 - 🌱 I’m currently learning SSL (Self-Supervised Learning) 
 - 👯 I’m looking to collaborate on AI Projects 
 - 🤔 I’m looking for help with MLOps 
-- 💬 Ask me about Computer Vision and NLP 
+- 💬 Ask me about Computer Vision and Natural Language Processing 
 - 📫 How to reach me: -
 - 😄 Pronouns: He/him 
 
