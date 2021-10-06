@@ -6,7 +6,7 @@ I am a Final Year student at Sepuluh Nopember Institute of Technology majoring i
 
 Skills: Python • TensorFlow • PyTorch • Keras • PyTorch Lightning • OpenCV • fast.ai • Spark-NLP • Huggingface • YOLO • JAX • Numpy • Pandas • SQL 
 
-- 🔭 I’m currently working on Computer Vision and Natural Language Processing 
+- 🔭 I’m working on Computer Vision and Natural Language Processing 
 - 📖 I’m currently learning SSL (Self-Supervised Learning) and Graph Representation Learning
 <!-- - 👯 I’m looking to collaborate on AI Projects 
 - 🤔 I’m looking for help with MLOps 
