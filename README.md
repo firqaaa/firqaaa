@@ -1,13 +1,14 @@
 ### Hi there 👋, my name is Firqa
-#### I am Data Scientist • ML Engineer • AI Engineer
+<!-- #### I am Data Scientist • ML Engineer • AI Engineer -->
 <!-- ![I am Data Scientist • ML Engineer • AI Engineer] -->
 
-I am a Freshgraduate from Sepuluh Nopember Institute of Technology majoring in Information System. I’m proficient in such Machine Learning and Deep Learning areas as Computer Vision, Natural Language Processing, and Predictive Analytics. 
+<!-- I am a Freshgraduate from Sepuluh Nopember Institute of Technology majoring in Information System.  -->
+I’m proficient in such Machine Learning and Deep Learning areas as Computer Vision, Natural Language Processing, and Predictive Analytics. 
 
-Skills: Python • TensorFlow • PyTorch • Keras • PyTorch Lightning • OpenCV • fastaiv2 • Spark-NLP • Hugging Face • YOLO • JAX • Numpy • Pandas • SQL • MongoDB • MapReduce • Spark • Apache Pig • HiveQL • Apache Airflow 
+<!-- Skills: Python • TensorFlow • PyTorch • Keras • PyTorch Lightning • OpenCV • fastaiv2 • Spark-NLP • Hugging Face • YOLO • JAX • Numpy • Pandas • SQL • MongoDB • MapReduce • Spark • Apache Pig • HiveQL • Apache Airflow 
 
 - 🔭 I’m working on Computer Vision and Natural Language Processing 
-- 📖 I’m currently learning SSL (Self-Supervised Learning) and Graph Representation Learning
+- 📖 I’m currently learning SSL (Self-Supervised Learning) and Graph Representation Learning -->
 <!-- - 👯 I’m looking to collaborate on AI Projects 
 - 🤔 I’m looking for help with MLOps 
 - 💬 Ask me about Computer Vision and Natural Language Processing 
