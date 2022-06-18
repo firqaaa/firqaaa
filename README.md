@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firqa</h1>
+<h2 align="center">Hi 👋, I'm Firqa</h2>
 <h4 align="center">Data Scientist / Machine Learning Engineer / AI Engineer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firqaaa&label=Profile%20views&color=0e75b6&style=flat" alt="firqaaa" /> </p>
