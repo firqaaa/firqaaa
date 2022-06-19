@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firqaaa&label=Profile%20views&color=0e75b6&style=flat" alt="firqaaa" /> </p>
 
-- 🔭 <p align="left"> I’m currently working on **Computer Vision / Natural Language Processing** </p>
-- 🌱 <p align="left"> I’m currently learning **MLOps** </p>
-- 💬 <p align="left"> Ask me about **TensorFlow, PyTorch** </p>
+- 🔭 I’m currently working on **Computer Vision / Natural Language Processing** 
+- 🌱 I’m currently learning **MLOps**
+- 💬 Ask me about **TensorFlow, PyTorch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
