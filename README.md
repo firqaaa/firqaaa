@@ -1,38 +1,23 @@
 <h2 align="left">Hi ...👋</h2>
 
 ###
-
 <p align="left">My name is Firqa and I'm a Data Scientist / Machine Learning Engineer / AI Engineer from Indonesia. I graduated from Sepuluh Nopember Institute of Technology majoring in Information Systems. I’m proficient in such Machine Learning and Deep Learning areas as Computer Vision, Natural Language Processing, and Predictive Analytics.</p>
-
 ###
-
 <h3 align="left">About me</h3>
-
 ###
-
 <p align="left">🔭 I’m currently working on Natural Language Processing<br>🌱 I’m currently learning Graph Neural Network<br>💬 Ask me about Machine Learning</p>
-
 ###
-
 <h3 align="left">Stats</h3>
-
 ###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&username=firqaaa" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=jolly&hide_border=true&username=firqaaa" height="150" alt="languages graph"  />
 </div>
-
 ###
-
 <br clear="both">
-
 <h3 align="left">Stacks</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
@@ -58,15 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="52" alt="git logo"  />
 </div>
-
 ###
-
 <br clear="both">
-
 <h3 align="left">Socials</h3>
-
 ###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
@@ -76,13 +56,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
-
 ###
-
 <h3 align="left">Activities</h3>
-
 ###
-
 <img href="https://raw.githubusercontent.com/firqaaa/firqaaa/blob/output/snake.svg" alt="Snake animation" />
-
 ###
