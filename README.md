@@ -1,19 +1,3 @@
-<h2 align="left">Hi ...👋</h2>
-
-###
-
-<p align="left">My name is Firqa and I'm a Data Scientist / Machine Learning Engineer / AI Engineer from Indonesia. I graduated from Sepuluh Nopember Institute of Technology majoring in Information Systems. I’m proficient in such Machine Learning and Deep Learning areas as Computer Vision, Natural Language Processing, and Predictive Analytics.</p>
-
-###
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">🔭 I’m currently working on Natural Language Processing<br>🌱 I’m currently learning Graph Neural Network<br>💬 Ask me about Machine Learning</p>
-
-###
-
 <h3 align="left">Stats</h3>
 
 ###
@@ -43,23 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="52" alt="azure logo"  />
  
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Socials</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###
