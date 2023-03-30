@@ -1,4 +1,4 @@
-<h3 align="left"><b>Tech Stacks</b></h3>
+<h3 align="left"><b>Tech & Tools</b></h3>
 
 ###
 
