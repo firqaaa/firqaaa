@@ -17,8 +17,8 @@
   <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="36" width="52" alt="azure logo"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="52" alt="azure logo"/>&nbsp;&nbsp;
   <img src="https://onnxruntime.ai/images/ONNX-Icon.png" height="40" width="40" alt="azure logo"/>&nbsp;&nbsp;&nbsp;
-  
+</div>
+<div align="left">
   <img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" height="40" width="52" alt="azure logo"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="52" alt="azure logo"/>
 </div>
-
