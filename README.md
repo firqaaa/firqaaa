@@ -18,7 +18,7 @@
 </div>
 
 <div align="left">
-  <img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" height="40" width="48" alt="azure logo"/>
+     <img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" height="40" width="48" alt="azure logo"/>
   <!-- <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="52" alt="azure logo"/>  
   <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="45" alt="azure logo"/> -->
