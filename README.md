@@ -1,4 +1,5 @@
-<h3 align="left", style="font-family:  Consolas, monospace;"><b>Survival Kits : </b></h3>
+<!-- <h3 align="left", style="font-family:  Consolas, monospace;"><b>Tech : </b></h3> -->
+## Lang & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -23,3 +24,22 @@
   <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="45" alt="azure logo"/> -->
 </div>
+
+
+<br>
+
+## <b>Statistics</b>
+
+<img src="https://myreadme.vercel.app/api/embed/firqaaa?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<br>
+
+<!-- ## <b>Codewars</b>
+
+[![Codewars Badge](https://www.codewars.com/users/firqaaa/badges/large)](https://www.codewars.com/users/firqaaa)
+
+<br>
+
+## <b>Leetcode</b> 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=firqaaa)](https://github.com/firqaaa/github-readme) -->
