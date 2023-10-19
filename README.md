@@ -35,7 +35,7 @@
 <br> -->
 
 
-## <b>Codewars</b>
+## <b>Others</b>
 
 [![Codewars Badge](https://www.codewars.com/users/firqaaa/badges/small)](https://www.codewars.com/users/firqaaa)
 
