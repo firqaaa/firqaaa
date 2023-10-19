@@ -1,5 +1,5 @@
 <!-- <h3 align="left", style="font-family:  Consolas, monospace;"><b>Tech : </b></h3> -->
-## Lang & Tools : 
+## Lang & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -35,7 +35,7 @@
 <br> -->
 
 
-## <b>Codewars</b> :
+## <b>Codewars</b>
 
 [![Codewars Badge](https://www.codewars.com/users/firqaaa/badges/large)](https://www.codewars.com/users/firqaaa)
 
