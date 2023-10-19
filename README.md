@@ -37,7 +37,7 @@
 
 ## <b>Codewars</b>
 
-[![Codewars Badge](https://www.codewars.com/users/firqaaa/badges/large)](https://www.codewars.com/users/firqaaa)
+[![Codewars Badge](https://www.codewars.com/users/firqaaa/badges/small)](https://www.codewars.com/users/firqaaa)
 
 <br>
 
