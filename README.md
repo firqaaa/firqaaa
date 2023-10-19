@@ -1,5 +1,5 @@
 <!-- <h3 align="left", style="font-family:  Consolas, monospace;"><b>Tech : </b></h3> -->
-## Lang & Tools
+## Lang & Tools : 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -28,18 +28,19 @@
 
 <br>
 
-## <b>Statistics</b>
+<!-- ## <b>Statistics</b>
 
 <img src="https://myreadme.vercel.app/api/embed/firqaaa?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<br>
+<br> -->
 
-<!-- ## <b>Codewars</b>
+
+## <b>Codewars</b> :
 
 [![Codewars Badge](https://www.codewars.com/users/firqaaa/badges/large)](https://www.codewars.com/users/firqaaa)
 
 <br>
 
-## <b>Leetcode</b> 
+<!-- ## <b>Leetcode</b> 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=firqaaa)](https://github.com/firqaaa/github-readme) -->
