@@ -85,6 +85,15 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 
 <br>
 
+## 🖥️ <b> Operating System </b>
+<div align="left">
+  <img src="./images/win11.png" height="40" alt="windows8 logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="3" />
+  <img src="https://www.varcap-informatique.net/tutoriels/wp-content/uploads/2021/08/logo-macos-monterey.png" height="40" alt="apple logo"  />
+</div>
+
 <!-- ## <b>Statistics</b>
 
 <img src="https://myreadme.vercel.app/api/embed/firqaaa?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
