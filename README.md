@@ -48,7 +48,7 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="3" />
     <img src="./images/5270.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-    <img src="./images/0521174.png" height="50" width="40" alt="azure logo"/>
+    <img src="./images/0521174.png" height="50" width="50" alt="azure logo"/>
 <img width="3" />
     <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
@@ -66,7 +66,7 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="3" />
     <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="30" width="40" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="40" width="48" alt="azure logo"/>
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img width="3" />
