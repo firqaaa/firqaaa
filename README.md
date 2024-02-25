@@ -25,7 +25,7 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
     <img style="margin-left:-4px; margin-bottom:-2px" src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="42" width="42" alt="azure logo"  />   
     <img style="margin-left:-8px; margin-bottom: 0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="35" width="52" alt="azure logo"/>   
     <img style="margin-left:-7px;" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="36" width="52" alt="azure logo"/> 
-    <img style="margin-left:-7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="52" alt="azure logo"/>  
+    <img style="margin-left:-7px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="52" alt="azure logo"/>  
     <img style="margin-left:-7px; margin-bottom: 0px" src="https://onnxruntime.ai/images/ONNX-Icon.png" height="40" width="40" alt="azure logo"/>
     <img style="margin-left:15px" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" height="40" width="40" alt="azure logo"/>
     <img style="margin-left:-9px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="45" alt="azure logo"/>
@@ -46,7 +46,7 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
     <img style="margin-left:3px; margin-bottom:-14px" src="./images/0521174.png" alt="Bash" height="58" width="58" />
     <img style="margin-left:-10px; margin-bottom:-10px" src="./images/oqVQ04b5KiGt5WOWJmYt8.png" alt="Bash" height="55" width="55" />
     <img style="margin-left:-1px; margin-bottom:-3px" src="https://asset.brandfetch.io/idfDTLvPCK/idfkFVkJdH.png" 
-    <img style="margin-left:-3px; margin-bottom:-3px" src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="Bash" height="40" width="40" />
+    <img style="margin-left:3px; margin-bottom:-3px" src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="Bash" height="40" width="40" />
     </div>
 </div>
 
