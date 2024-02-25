@@ -68,8 +68,6 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
     <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="38" width="35" alt="azure logo"/> -->
 <img width="3" />
-    <img src="https://azure.microsoft.com/svghandler/search/?width=600&height=315" height="35" width="65" alt="azure logo"/>
-<img width="3" />
     <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
     <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="32" width="42" alt="azure logo"/>
