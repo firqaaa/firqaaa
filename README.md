@@ -20,7 +20,9 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="40" width="40" alt="tensorflow logo"/> 
+  <img width="5" />
+  <img src="https://img.stackshare.io/service/5601/keras.png" height="38" width="38" alt="tensorflow logo"/>
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="5" />
