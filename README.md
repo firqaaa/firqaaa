@@ -11,7 +11,7 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 
 <div align="center">
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"/>
+    <img style="margin-top:-2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"/>
     <img src="https://doc.rust-lang.org/book/img/ferris/not_desired_behavior.svg" height="40" width="52" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
     <img style="margin-left:5px; margin-bottom:-25px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" height="50" width="40" alt="r logo"/>
