@@ -61,12 +61,12 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45" width="45" alt="azure logo"/>
 <img width="3"> 
     <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo" />
-<!-- <img width="3" />
+<img width="3" />
     <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" height="45" width="45" alt="azure logo" />
 <img width="3" />
     <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="45" width="45" alt="azure logo"/>
 <img width="3" />
-    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="38" width="35" alt="azure logo"/> -->
+    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="38" width="35" alt="azure logo"/>
 <img width="3" />
     <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
