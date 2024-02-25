@@ -28,7 +28,7 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
   <img src="https://img.stackshare.io/service/5601/keras.png" height="40" width="40" alt="tensorflow logo"/>
 <img width="3" />
-  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2017/04/logo.png" height="40" width="40" alt="azure logo"/>
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2017/04/logo.png" height="40" width="45" alt="azure logo"/>
 <img width="3" />
   <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" height="36" width="36" alt="azure logo"/>
 <img width="3" />
