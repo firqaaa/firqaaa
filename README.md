@@ -4,7 +4,7 @@
 
 ## 🎙️ Introduction
 
-Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements in the fields of Natural Language Processing (NLP) and the captivating realm of Computer Vision. Envision a fusion of cutting-edge technology, linguistic sophistication, and image manipulation expertise, all committed to propelling the world of AI forward with innovation. Presently, I am actively contributing as an expert in AI/NLP, injecting a substantial infusion of sophistication into the Healthcare domain. It's a pleasure to meet you!
+Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in the fields of Natural Language Processing (NLP) and the captivating realm of Computer Vision. Envision a fusion of cutting-edge technology, linguistic sophistication, and image manipulation expertise, all committed to propelling the world of AI forward with innovation. Presently, I am actively contributing as an expert in AI/NLP, injecting a substantial infusion of sophistication into the Healthcare domain. It's a pleasure to meet you!
 
 
 ## 🔩 Tools
