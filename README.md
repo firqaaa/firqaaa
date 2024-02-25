@@ -52,6 +52,30 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="Bash" height="55" width="55" />
 <img width="3" />
+  <img style="margin-left:-7px; margin-bottom: 0px" src="https://onnxruntime.ai/images/ONNX-Icon.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="45" alt="azure logo"/>
+<img width="3" />
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45" width="45" alt="azure logo" style="margin-left:5px"/>
+<img width="3" /> 
+    <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo" style="margin-left:-5px"/>
+<img width="3" />
+    <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" height="45" width="45" alt="azure logo" style="margin-left:-5px"/>
+<img width="3" />
+    <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="45" width="45" alt="azure logo" style="margin-left:-2px"/>
+<img width="3" />
+    <img src="https://www.strongdm.com/hubfs/21126185/Technology%20Images/6074a311c28a8110c357bdd3_606379670d3642570e754a45_sagemaker-200x200.png" height="45" width="45" alt="azure logo" style="margin-left:2px"/>
+<img width="3" />
+    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="38" width="35" alt="azure logo" style="margin-left:2px;margin-bottom:2px"/>
+<img width="3" />
+    <img src="https://azure.microsoft.com/svghandler/search/?width=600&height=315" height="45" width="75" alt="azure logo" style="margin-left:-7px;margin-bottom:-3px"/>
+<img width="3" />
+    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="38" width="38" alt="azure logo" style="margin-left:-10px;margin-bottom:2px"/>
+<img width="3" />
+    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="32" width="42" alt="azure logo" style="margin-left:8px;margin-bottom:3px"/>
+<img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
