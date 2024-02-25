@@ -28,7 +28,15 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
   <img src="https://img.stackshare.io/service/5601/keras.png" height="40" width="40" alt="tensorflow logo"/>
 <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2017/04/logo.png" height="42" width="58" alt="azure logo"/>
+<img width="3" />
+  <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" height="36" width="36" alt="azure logo"/>
+<img width="3" />
+  <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="42" width="42" alt="azure logo"  />
+<img width="3" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="35" width="52" alt="azure logo"/>
+<img width="3" />
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="36" width="52" alt="azure logo"/>
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 <img width="3" />
