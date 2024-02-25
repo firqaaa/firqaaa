@@ -60,7 +60,7 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45" width="45" alt="azure logo"/>
 <img width="3"> 
-    <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo" />
+    <img style="margin-right:-5px" src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo" />
 <!-- <img width="3" />
     <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" height="45" width="45" alt="azure logo" />
 <img width="3" />
