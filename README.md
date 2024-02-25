@@ -46,6 +46,12 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="3" />
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
+    <img src="./images/5270.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="./images/0521174.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="40" alt="azure logo"/>
 <img width="3"> 
     <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="40" width="40" alt="azure logo" />
