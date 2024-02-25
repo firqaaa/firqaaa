@@ -42,6 +42,16 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 <img width="3" />
+  <img src="https://onnxruntime.ai/images/ONNX-Icon.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="40" alt="azure logo"/>
+<img width="3"> 
+    <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="40" width="40" alt="azure logo" />
+<img width="3" />
+    <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" height="40" width="40" alt="azure logo" />
+<img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -51,18 +61,6 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 <img width="3" />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="Bash" height="50" width="50" />
-<img width="3" />
-  <img src="https://onnxruntime.ai/images/ONNX-Icon.png" height="40" width="40" alt="azure logo"/>
-<img width="3" />
-    <img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" height="40" width="40" alt="azure logo"/>
-<img width="3" />
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="45" alt="azure logo"/>
-<img width="3" />
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45" width="45" alt="azure logo"/>
-<img width="3"> 
-    <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="45" width="45" alt="azure logo" />
-<img width="3" />
-    <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" height="45" width="45" alt="azure logo" />
 <img width="3" />
     <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="45" width="45" alt="azure logo"/>
 <img width="3" />
