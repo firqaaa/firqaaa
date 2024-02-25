@@ -28,11 +28,11 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
   <img src="https://img.stackshare.io/service/5601/keras.png" height="40" width="40" alt="tensorflow logo"/>
 <img width="3" />
-  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2017/04/logo.png" height="42" width="58" alt="azure logo"/>
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2017/04/logo.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
   <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" height="36" width="36" alt="azure logo"/>
 <img width="3" />
-  <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="42" width="42" alt="azure logo"  />
+  <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
 <img width="3" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="35" width="52" alt="azure logo"/>
 <img width="3" />
@@ -54,6 +54,14 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 <img width="3" />
+    <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
+    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
+<img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -61,14 +69,6 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 <img width="3" />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="Bash" height="50" width="50" />
-<img width="3" />
-    <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="45" width="45" alt="azure logo"/>
-<img width="3" />
-    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="38" width="35" alt="azure logo"/>
-<img width="3" />
-    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
-<img width="3" />
-    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="32" width="40" alt="azure logo"/>
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 <img width="3" />
