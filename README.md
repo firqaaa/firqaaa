@@ -75,14 +75,14 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
 
 <br>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td><img alt="competition" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/firqaaa/competition/light"></td>
     <td><img alt="dataset" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/firqaaa/dataset/light"></td>
     <td><img alt="notebook" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/firqaaa/notebook/light"></td>
     <td><img alt="discussion" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/firqaaa/discussion/light"></td>
   </tr>
-</table>
+</table> -->
 
 ## 📮 <b>Contacts</b>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:firqa.arasyi@kalbecorp.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firqaana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@firqaaa)
