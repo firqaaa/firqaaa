@@ -77,7 +77,6 @@ Greetings! 👋🏼, I am фирка, an AI trailblazer, pioneering advancements
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 </div>
 
 <br>
