@@ -21,6 +21,8 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+<img width="3">
+  <img src="https://avatars.githubusercontent.com/u/43887749?s=48&v=4" height="40" width="40" alt="pandas logo"  />
 <img width="3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="40" width="58" alt="pandas logo"/> 
 <img width="3" />
@@ -48,7 +50,9 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="3" />
     <img src="./images/5270.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-    <img src="./images/0521174.png" height="45" width="45" alt="azure logo"/>
+    <img src="./images/logo-light.png#gh-dark-mode-only" height="25" width="40" alt="azure logo"/>
+<img width="3" />
+<img src="./images/logo-dark.png#gh-light-mode-only" height="25" width="40" alt="azure logo"/>
 <img width="3" />
     <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
