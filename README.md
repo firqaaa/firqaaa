@@ -50,9 +50,9 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="3" />
     <img src="./images/5270.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-    <img src="./images/logo-light.png#gh-dark-mode-only" height="25" width="40" alt="azure logo"/>
+    <img style="margin-bottom:5px" src="./images/logo-light.png#gh-dark-mode-only" height="25" width="40" alt="azure logo"/>
 <img width="3" />
-<img src="./images/logo-dark.png#gh-light-mode-only" height="25" width="40" alt="azure logo"/>
+<img style="margin-bottom:5px" src="./images/logo-dark.png#gh-light-mode-only" height="25" width="40" alt="azure logo"/>
 <img width="3" />
     <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
