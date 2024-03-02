@@ -36,7 +36,7 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="4" />
   <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
 <img width="2" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="30" width="40" alt="azure logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="36" width="42" alt="azure logo"/>
 <img width="3" /> 
   <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
