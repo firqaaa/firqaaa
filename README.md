@@ -22,7 +22,7 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
 <img width="3">
-  <img src="https://avatars.githubusercontent.com/u/43887749?s=48&v=4" height="40" width="40" alt="pandas logo"  />
+  <img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_200x200.jpg" height="40" width="40" alt="pandas logo"  />
 <img width="3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="40" width="58" alt="pandas logo"/> 
 <img width="3" />
@@ -33,10 +33,12 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
   <img src="https://freepngimg.com/save/72540-network-neural-recurrent-deep-database-pytorch-artificial/1200x1200" height="40" width="45" alt="azure logo"/>
 <img width="3" />
   <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" height="36" width="36" alt="azure logo"/>
-<img width="3" />
+<img width="4" />
   <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
+<img width="2" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="30" width="40" alt="azure logo"/>
 <img width="3" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="35" width="52" alt="azure logo"/>
+  <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
   <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="36" width="52" alt="azure logo"/>
 <img width="3" />
@@ -49,10 +51,12 @@ Greetings! 👋🏼, I am фирка, an AI Engineer, pioneering advancements in
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
     <img src="./images/5270.png" height="40" width="40" alt="azure logo"/>
-<img width="1" />
+<img width="3" />
+    <img src="./images/312y9y449.png" height="40" width="40" alt="azure logo"/>
+<img width="2" />
     <img src="./images/logo-light.png#gh-dark-mode-only" height="28" width="40" alt="azure logo"/>
     <img src="./images/logo-dark.png#gh-light-mode-only" height="28" width="40" alt="azure logo"/>
-<img width="1" />
+<img width="2" />
     <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="40" alt="azure logo"/>
