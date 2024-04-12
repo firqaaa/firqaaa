@@ -53,8 +53,8 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="3" />
     <img src="./images/312y9y449.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-    <img src="./images/fM5FlvD3_400x400-all.png#gh-dark-mode-only" height="40" width="40" alt="azure logo"/>
-    <img src="./images/fM5FlvD3_400x400-all.png#gh-light-mode-only" height="40" width="40" alt="azure logo"/>
+    <img src="./images/fM5FlvD3_400x400-all.png#gh-dark-mode-only" height="45" width="45" alt="azure logo"/>
+    <img src="./images/fM5FlvD3_400x400-all.png#gh-light-mode-only" height="45" width="45" alt="azure logo"/>
 <img width="1" />
     <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
