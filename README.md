@@ -50,14 +50,14 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
     <img src="./images/5270.png" height="40" width="40" alt="azure logo"/>
-<img width="3" />
+<img width="1" />
     <img src="./images/312y9y449.png" height="40" width="40" alt="azure logo"/>
 <img width="1" />
     <img src="./images/fM5FlvD3_400x400-all.png#gh-dark-mode-only" height="45" width="45" alt="azure logo"/>
     <img src="./images/fM5FlvD3_400x400-all.png#gh-light-mode-only" height="45" width="45" alt="azure logo"/>
 <img width="1" />
     <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
-<img width="3" />
+<img width="1" />
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="40" alt="azure logo"/>
 <img width="3"> 
     <img src="https://innovationyourself.com/wp-content/uploads/2021/10/rasa.png" height="40" width="40" alt="azure logo" />
