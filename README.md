@@ -31,15 +31,15 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="3" />
   <img src="https://freepngimg.com/save/72540-network-neural-recurrent-deep-database-pytorch-artificial/1200x1200" height="40" width="45" alt="azure logo"/>
 <img width="3" />
-  <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" height="36" width="36" alt="azure logo"/>
-<img width="4" />
-  <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
-<img width="2" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" height="36" width="42" alt="azure logo"/>
-<img width="3" /> 
-  <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" height="40" width="40" alt="azure logo"/>
+  <img src="https://storage.googleapis.com/wandb-production.appspot.com/int_pb/images/views/3955693/preview.png?md5=de86ce08441b267144a0f38ec9509377" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="36" width="52" alt="azure logo"/>
+  <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
+<img width="1" /> 
+  <img src="https://theaisummer.com/static/f90161f13b7ace6a479b5158291e60c2/63868/jax-logo.png" height="30" width="40" alt="azure logo"/>
+<img width="1" /> 
+  <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" height="41" width="41" alt="azure logo"/>
+<img width="3" />
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="33" width="40" alt="azure logo"/>
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 <img width="3" />
@@ -68,13 +68,13 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="3" />
     <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="40" width="40" alt="azure logo"/>
 <img width="3" />
-    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="36" width="30" alt="azure logo"/>
 <img width="3" />
-    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="35" width="35" alt="azure logo"/>
 <img width="3" />
-    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="35" width="40" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="30" width="38" alt="azure logo"/>
 <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="33" alt="azure logo"  />
 <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 <img width="3" />
@@ -82,9 +82,9 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="3" />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="Bash" height="50" width="50" />
 <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/256/873/873120.png" height="35" alt="bash logo"  />
 <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
 </div>
 
 </div>
