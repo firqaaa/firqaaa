@@ -92,7 +92,8 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FFAzVc%2FbtsrVufKWXs%2FWeSKyRktzzzL533LFa6WV1%2Fimg.png" height="40" alt="git logo"  />
 <img width="2" />
-  <img src="  https://avatars.githubusercontent.com/u/54850923?s=280&v=4g" height="40" alt="git logo"  />
+  <img src="https://asset.brandfetch.io/idfDTLvPCK/idfkFVkJdH.png" height="40" alt="git logo"  />
+
 </div>
 </div>
 
