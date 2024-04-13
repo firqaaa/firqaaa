@@ -35,7 +35,7 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="3" />
   <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
 <img width="1" /> 
-  <img src="https://theaisummer.com/static/f90161f13b7ace6a479b5158291e60c2/63868/jax-logo.png" height="30" width="40" alt="azure logo"/>
+  <img src="https://theaisummer.com/static/f90161f13b7ace6a479b5158291e60c2/63868/jax-logo.png" height="35" width="41" alt="azure logo"/>
 <img width="1" /> 
   <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" height="41" width="41" alt="azure logo"/>
 <img width="3" />
