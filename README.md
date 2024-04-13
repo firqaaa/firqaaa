@@ -68,8 +68,6 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
     <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="40" width="40" alt="azure logo"/>
 <img width="2" />
-    <img src="https://seeklogo.com/images/A/azure-machine-learning-service-logo-445C459FD8-seeklogo.com.png" height="36" width="30" alt="azure logo"/>
-<img width="2" />
     <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="35" width="35" alt="azure logo"/>
 <img width="2" />
     <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="30" width="38" alt="azure logo"/>
@@ -81,10 +79,15 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 <img width="2" />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="Bash" height="50" width="50" />
+<!-- <img width="2" />
+  <img src="https://cdn-icons-png.flaticon.com/256/873/873120.png" height="35" alt="bash logo"  /> -->
 <img width="2" />
-  <img src="https://cdn-icons-png.flaticon.com/256/873/873120.png" height="32" alt="bash logo"  />
+  <img src="https://repository-images.githubusercontent.com/135934107/7d1b9580-c328-11eb-931b-d46c26e29959" height="45" width="45" alt="git logo"  />
 <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img src="./images/images-removebg-preview.png" height="45" width="55" alt="git logo"  />
+<img width="2" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Git-icon-black.svg/800px-Git-icon-black.svg.png" height="35" alt="git logo"  />
+</div>
 </div>
 
 </div>
