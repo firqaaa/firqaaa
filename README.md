@@ -33,11 +33,11 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
 <img width="2" />
-  <img src="https://storage.googleapis.com/wandb-production.appspot.com/int_pb/images/views/3955693/preview.png?md5=de86ce08441b267144a0f38ec9509377" height="40" width="40" alt="azure logo"/>
+  <img src="https://pbs.twimg.com/profile_images/1562047178020950017/bgSunJt3_200x200.png" height="40" width="40" alt="azure logo"/>
 <img width="2" /> 
-  <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" height="41" width="41" alt="azure logo"/>
+  <img src="https://avatars.githubusercontent.com/u/63879146?s=200&v=49" height="40" width="40" alt="azure logo"/>
 <img width="2" /> 
-  <img src="https://theaisummer.com/static/f90161f13b7ace6a479b5158291e60c2/63868/jax-logo.png" height="35" width="41" alt="azure logo"/>
+  <img src="https://theaisummer.com/static/f90161f13b7ace6a479b5158291e60c2/63868/jax-logo.png" height="34" width="45" alt="azure logo"/>
 <img width="2" />
   <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="33" width="40" alt="azure logo"/>
 <img width="2" />
@@ -82,7 +82,7 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="Bash" height="50" width="50" />
 <img width="2" />
-  <img src="https://cdn-icons-png.flaticon.com/256/873/873120.png" height="35" alt="bash logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/256/873/873120.png" height="32" alt="bash logo"  />
 <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
 </div>
