@@ -70,6 +70,8 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
     <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="35" width="35" alt="azure logo"/>
 <img width="2" />
+    <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" height="35" width="35" alt="azure logo"/>
+<img width="2" />
     <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="30" width="38" alt="azure logo"/>
 <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="33" alt="azure logo"  />
@@ -86,7 +88,11 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="./images/images-removebg-preview.png" height="45" width="55" alt="git logo"  />
 <img width="2" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Git-icon-black.svg/800px-Git-icon-black.svg.png" height="35" alt="git logo"  />
+  <img src="https://www.svgrepo.com/show/368725/git.svg" height="40" alt="git logo"  />
+<img width="2" />
+  <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FFAzVc%2FbtsrVufKWXs%2FWeSKyRktzzzL533LFa6WV1%2Fimg.png" height="40" alt="git logo"  />
+<img width="2" />
+  <img src="  https://avatars.githubusercontent.com/u/54850923?s=280&v=4g" height="40" alt="git logo"  />
 </div>
 </div>
 
