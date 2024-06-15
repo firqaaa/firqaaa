@@ -33,9 +33,9 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="https://avatars.githubusercontent.com/u/58386951?v=4&s=400" height="40" width="40" alt="azure logo"  />
 <img width="2" />
-  <img src="https://pbs.twimg.com/profile_images/1562047178020950017/bgSunJt3_200x200.png" height="41" width="41" alt="azure logo"/>
+  <img src="https://pbs.twimg.com/profile_images/1562047178020950017/bgSunJt3_200x200.png" height="40" width="40" alt="azure logo"/>
 <img width="2" /> 
-  <img src="https://avatars.githubusercontent.com/u/63879146?s=200&v=49" height="41" width="41" alt="azure logo"/>
+  <img src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/ivy_logo_only.png" height="40" width="40" alt="azure logo"/>
 <img width="2" /> 
   <img style="margin-left:-5px"src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/60cf481f4fa740f488a56c18048d9167~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp" height="32" width="40" style="border-radius: 25%; alt="azure logo"/>
 <img width="2" />
