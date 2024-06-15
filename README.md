@@ -11,8 +11,8 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 
 <div align="center">
 <div align="left">
-<img src="/home/firqaaa/Python/firqaaa/images/gh-dark.png#gh-dark-mode-only" alt="dark-mode">
-<img src="/home/firqaaa/Python/firqaaa/images/gh-light.png#gh-light-mode-only" alt="dark-mode">
+<img src="./images/gh-dark.png#gh-dark-mode-only" alt="dark-mode">
+<img src="./images/gh-light.png#gh-light-mode-only" alt="dark-mode">
 </div>
 </div>
 
