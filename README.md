@@ -21,13 +21,13 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
 <img width="3">
-  <img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_200x200.jpg" height="40" width="40" alt="pandas logo"  />
+  <img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_200x200.jpg" height="40" width="40" style="border-radius: 25%; alt="pandas logo"  />
 <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="40" width="58" alt="pandas logo"/> 
 <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="40" width="40" alt="tensorflow logo"/> 
 <img width="2" />
-  <img src="https://img.stackshare.io/service/5601/keras.png" height="40" width="40" alt="tensorflow logo"/>
+  <img src="https://img.stackshare.io/service/5601/keras.png" height="40" width="40" style="border-radius: 25%; alt="tensorflow logo"/>
 <img width="2" />
   <img src="https://freepngimg.com/save/72540-network-neural-recurrent-deep-database-pytorch-artificial/1200x1200" height="40" width="45" alt="azure logo"/>
 <img width="2" />
@@ -37,7 +37,7 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" /> 
   <img src="https://avatars.githubusercontent.com/u/63879146?s=200&v=49" height="41" width="41" alt="azure logo"/>
 <img width="2" /> 
-  <img style="margin-left:-5px"src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/60cf481f4fa740f488a56c18048d9167~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp" height="34" width="40" alt="azure logo"/>
+  <img style="margin-left:-5px"src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/60cf481f4fa740f488a56c18048d9167~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp" height="32" width="40" style="border-radius: 25%; alt="azure logo"/>
 <img width="2" />
   <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="33" width="40" alt="azure logo"/>
 <img width="2" />
@@ -53,10 +53,10 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
     <img src="./images/312y9y449.png" height="40" width="40" alt="azure logo"/>
 <img width="0.5" />
-    <img src="./images/fM5FlvD3_400x400-all.png#gh-dark-mode-only" height="45" width="45" alt="azure logo"/>
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=280&v=4#gh-dark-mode-only" height="40" width="40" alt="azure logo" style="border-radius: 25%;">
     <img src="./images/fM5FlvD3_400x400-all.png#gh-light-mode-only" height="45" width="45" alt="azure logo"/>
 <img width="0.5" />
-    <img src="./images/oqVQ04b5KiGt5WOWJmYt8.png" height="40" width="40" alt="azure logo"/>
+    <img src="https://asset.brandfetch.io/id6a4s3gXI/idncpUsO_z.jpeg" height="40" width="40" style="border-radius: 25%; alt="azure logo"/>
 <img width="2" />
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" width="40" alt="azure logo"/>
 <img width="3"> 
@@ -65,8 +65,8 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
     <img src="https://miro.medium.com/v2/resize:fit:513/1*aeXlwnOS3DvVHiMVgBZbpQ.png" height="40" width="40" alt="azure logo" />
 <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-<img width="2" />
-    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
+<!-- <img width="2" />
+    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/> -->
 <img width="2" />
     <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
 <img width="2" />
