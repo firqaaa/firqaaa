@@ -66,15 +66,13 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 <img width="2" />
-    <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" height="40" width="40" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
 <img width="2" />
-    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" height="35" width="35" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" height="40" width="40" alt="azure logo"/>
 <img width="2" />
-    <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" height="35" width="35" alt="azure logo"/>
+    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="32" width="40" alt="azure logo"/>
 <img width="2" />
-    <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" height="30" width="38" alt="azure logo"/>
-<img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="33" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />
 <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 <img width="2" />
@@ -147,7 +145,7 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 </table> -->
 
 ## 📮 <b>Contacts</b>
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:firqa.arasyi@kalbecorp.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firqaana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@firqaaa)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:firqaaa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firqaana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@firqaaa)
 
 ###
 
