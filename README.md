@@ -35,8 +35,6 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
 <img width="2" />
   <img src="https://pbs.twimg.com/profile_images/1562047178020950017/bgSunJt3_200x200.png" height="40" width="40" alt="azure logo"/>
 <img width="2" /> 
-  <img src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/ivy_logo_only.png" height="40" width="40" alt="azure logo"/>
-<img width="2" /> 
   <img style="margin-left:-5px"src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/60cf481f4fa740f488a56c18048d9167~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp" height="32" width="40" style="border-radius: 25%; alt="azure logo"/>
 <img width="2" />
   <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="33" width="40" alt="azure logo"/>
@@ -93,6 +91,8 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
   <img src="https://asset.brandfetch.io/idfDTLvPCK/idfkFVkJdH.png" height="40" alt="git logo"  />
 <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="35" alt="git logo"  />
+<img width="2" /> 
+  <img src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/ivy_logo_only.png" height="40" width="40" alt="azure logo"/>
 </div>
 </div>
 
