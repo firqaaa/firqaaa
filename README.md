@@ -54,7 +54,7 @@ Hello there! I'm фирка, an AI Engineer exploring developments in Natural La
     <img src="./images/312y9y449.png" height="40" width="40" alt="azure logo"/>
 <img width="0.5" />
     <img src="https://avatars.githubusercontent.com/u/126733545?s=280&v=4#gh-dark-mode-only" height="40" width="40" alt="azure logo" style="border-radius: 25%;">
-    <img src="https://yt3.googleusercontent.com/n2bsKkWvZBm5-QSpSZFZ2xVsXI-iwenuzG5yRVPruFABzLfCfVti45S0PrXlwrVa9TvOF3Wu=s900-c-k-c0x00ffffff-no-rj#gh-light-mode-only" height="45" width="40" style="border-radius: 25%; alt="azure logo"/>
+    <img src="https://yt3.googleusercontent.com/n2bsKkWvZBm5-QSpSZFZ2xVsXI-iwenuzG5yRVPruFABzLfCfVti45S0PrXlwrVa9TvOF3Wu=s900-c-k-c0x00ffffff-no-rj#gh-light-mode-only" height="40" width="40" style="border-radius: 25%; alt="azure logo"/>
 <img width="0.5" />
     <img src="https://asset.brandfetch.io/id6a4s3gXI/idncpUsO_z.jpeg" height="40" width="40" style="border-radius: 25%; alt="azure logo"/>
 <img width="2" />
