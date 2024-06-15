@@ -4,7 +4,7 @@
 
 ## 🎙️ Introduction
 
-Hello there! I'm фирка, an AI Engineer exploring developments in Natural Language Processing (NLP) and the intriguing world of Computer Vision.  Right now, I'm deeply engaged as an AI / NLP specialist, bringing some extra finesse to the Healthcare sector. Nice to meet you!
+I am an AI Engineer with a focus on Natural Language Processing (NLP), Computer Vision, and Predictive Analytics. At present, I work for a conversational AI company that designs advanced AI-driven chatbots. Our aim is to revolutionize human interactions with technology, offering a more natural and intuitive user experience.
 
 ## 🔩 Tools
 <br>
