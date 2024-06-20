@@ -4,10 +4,8 @@
 
 ## 🎙️ Introduction
 
-Hi 👋🏼 .. I'm фирка, I am an AI Engineer with a focus on Natural Language Processing (NLP), Computer Vision,
-and Predictive Analytics. At present, I work for a conversational AI company that designs advanced AI-driven
-chatbots. Our aim is to revolutionize human interactions with technology, offering a more natural and intuitive
-user experience. Nice to meet you!
+Hello 👋🏼 .. I'm Фирка, an AI Engineer specializing in Natural Language Processing (NLP), Computer Vision, and Predictive Analytics. Currently, I work at a conversational AI company that develops sophisticated AI-powered chatbots. Our goal is to transform human-technology interactions, providing a more natural and intuitive user experience. Nice to meet you!
+
 
 
 ## 🔩 Tools
