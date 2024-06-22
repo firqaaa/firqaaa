@@ -4,7 +4,7 @@
 
 ## 🎙️ Introduction
 
-Hello 👋🏼 .. I'm Фирка, an <b>AI Engineer</b> specializing in <b>Natural Language Processing (NLP)</b>, <b>Computer Vision</b>, and <b>Predictive Analytics</b>. Currently, I work at a <b>Conversational AI</b> startup that develops sophisticated <b>AI-Powered</b> chatbots. Our goal is to transform human-technology interactions, providing a more natural and intuitive user experience. Nice to meet you!
+Hello 👋🏼 .. I'm Фирка, an <b>AI Engineer</b> specializing in <b>Natural Language Processing (NLP)</b>, <b>Computer Vision</b>, and <b>Predictive Analytics</b>. Currently, I work at a <b>Conversational AI</b> startup that develops sophisticated <b>AI-Powered Chatbots</b>. Our goal is to transform human-technology interactions, providing a more natural and intuitive user experience. Nice to meet you!
 
 
 
