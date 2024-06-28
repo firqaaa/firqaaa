@@ -75,7 +75,7 @@ Hello 👋🏼 .. I'm Фирка, an <b>AI Engineer</b> specializing in <b>Natur
 ## 📻 <b>Now Listening </b>
 <div align="center">
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ka2ltibsixwhlhexeylvwhep7i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ka2ltibsixwhlhexeylvwhep7i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ka2ltibsixwhlhexeylvwhep7i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ka2ltibsixwhlhexeylvwhep7i&redirect=true)
 
 </div>
 
